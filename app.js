@@ -37,10 +37,21 @@ setInterval(() => {
     "2025-11-01", // All Saints' Day
     //"2025-11-30", // Bonifacio Day
     "2025-12-08", // Feast of the Immaculate Conception
+    "2025-12-22",
+    "2025-12-23",
     "2025-12-24", // Christmas Eve
     "2025-12-25", // Christmas Day
+    "2025-12-26",
+    "2025-12-27",
+    "2025-12-28",
+    "2025-12-29",
     "2025-12-30", // Rizal Day
     "2025-12-31", // New Year's Eve
+    "2026-01-01",
+    "2026-01-02",
+    "2026-01-03",
+    "2026-01-04",
+    "2026-01-05",
   ]
 
   function isHolidayNow() {
@@ -103,3 +114,4 @@ document.addEventListener("click", function () {
     })
   }
 })
+
