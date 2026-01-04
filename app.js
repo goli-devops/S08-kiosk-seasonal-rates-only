@@ -51,7 +51,7 @@ setInterval(() => {
     "2026-01-02",
     "2026-01-03",
     "2026-01-04",
-    "2026-01-05",
+
   ]
 
   function isHolidayNow() {
@@ -114,4 +114,5 @@ document.addEventListener("click", function () {
     })
   }
 })
+
 
